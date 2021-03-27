@@ -1,7 +1,7 @@
 # Stock-Trading-News-Alert
 Python program that sends an SMS alert to the user about stock price.
 
-We first use the Alpha Advantage API in order to get data/information about a stock.
+We first use the Alpha Advantage API in order to get data/information about a stock.  
 https://www.alphavantage.co
 
 This program is hardcoded for the Tesla stock, but the user is free to change to whatever is the acronym of the stock he is
